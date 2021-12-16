@@ -69,7 +69,7 @@ const LandingPage = () => {
           </div>
         </div>
       </div>
-
+{/* halo */}
       <div className="container">
       <BusinessPartner className="latest">
           <div className="title">
